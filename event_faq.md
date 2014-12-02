@@ -6,6 +6,12 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for December 2, 2014.
 
+Q7: Why were the scored event CBs' PT_LOAD headers merged into a single header?
+
+A7: CGC Documentation has indicated (see: [cgc_executable_format](https://github.com/CyberGrandChallenge/libcgcef/blob/master/cgc_executable_format.md)) that the PT_GNU_STACK header is deprecated and will be removed. This change is live in the Scored Event 1 CB Corpus. As an artifact of this change, PT_LOAD header layout was affected: multiple PT_LOAD headers were merged into a single header.
+
+Competitors are correct to be concerned about Challenge Binary linker choices. CB authors have a degree of freedom when interacting with the linker per the CGC executable specification. DARPA will release a Build Freeze Corpus prior to CQE including the sample CBs, Scored Event 1 CBs, and Scored Event 2 CBs, inclusive, prior to CQE; the Build Freeze Corpus will be built using the same publicly released build toolchain that will be used in CQE. Please bear with us as we develop the DECREE platform.
+
 Q6: When will scoring be available for Scored Event 1?
 
 A6: Careful examination of the CQE scoring mechanism reveals that scoring cannot begin until all submissions have been received, due to the interaction of all competitor PoVs and all competitor replacement Challenge Binaries. The interaction matrix between these sets will be very large. Scoring work will proceed with all possible urgency beginning Dec 3rd and scoring information will be released as soon as possible. The expected timeframe is "days". We appreciate your patience!
