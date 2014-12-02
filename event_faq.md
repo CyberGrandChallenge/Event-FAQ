@@ -6,6 +6,15 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for December 2, 2014.
 
+Q4: What is the decryption key to the first scored event challenge bundle?
+
+A4: The key is: who at the best knows in the end the triumph of high achievement and who at the worst fails while daring greatly
+
+The challenge bundle can be decrypted with the following command as found on [github](https://github.com/CyberGrandChallenge/cgc-release-documentation/tree/master/scripts): 
+```
+cqe-unpack-event-bundle.py -e scored_event_1.ar.gz.enc -p "who at the best knows in the end the triumph of high achievement and who at the worst fails while daring greatly"
+```
+
 Q3: What is the official Twitter feed for CGC Scored Event 1?
 
 A3: https://twitter.com/DARPACGCSEone
