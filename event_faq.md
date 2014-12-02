@@ -6,6 +6,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for December 2, 2014.
 
+Q8: Will the newly uploaded solutions overwrite the old ones in S3?
+
+A8: The CGC FAQ hosted at cgc.darpa.mil in A67 provides for multiple submissions during Scored Event 1 and indicates which submission will be used for ranking. The CGC submission naming format prevents filename collisions between non-identical uploads.
+
 Q7: Why were the scored event CBs' PT_LOAD headers merged into a single header?
 
 A7: CGC Documentation has indicated (see: [cgc_executable_format](https://github.com/CyberGrandChallenge/libcgcef/blob/master/cgc_executable_format.md)) that the PT_GNU_STACK header is deprecated and will be removed. This change is live in the Scored Event 1 CB Corpus. As an artifact of this change, PT_LOAD header layout was affected: multiple PT_LOAD headers were merged into a single header.
