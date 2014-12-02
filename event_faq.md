@@ -6,13 +6,13 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for December 2, 2014.
 
-Q1: When will questions and answers appear here.
-
-A1: During the scored event.
-
 Q2: What is the thumbprint of the signing certificate for emails from cybergrandchallenge@darpa.mil?
 
 A2: a7 20 cd 85 7a a4 6c a3 a3 84 8d 5b 0c 22 17 6c 64 2b 44 ea
+
+Q1: When will questions and answers appear here.
+
+A1: During the scored event.
 
 # Scored Event 2
 
