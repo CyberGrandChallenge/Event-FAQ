@@ -6,6 +6,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for December 2, 2014.
 
+Q6: When will scoring be available for Scored Event 1?
+
+A6: Careful examination of the CQE scoring mechanism reveals that scoring cannot begin until all submissions have been received, due to the interaction of all competitor PoVs and all competitor replacement Challenge Binaries. The interaction matrix between these sets will be very large. Scoring work will proceed with all possible urgency beginning Dec 3rd and scoring information will be released as soon as possible. The expected timeframe is "days". We appreciate your patience!
+
 Q5: I'm having trouble decrypting the scored event challenge bundle. What OS should I use?
 
 A5: The first scored event challenge bundle should be decrypted on the DECREE VM per A4.
