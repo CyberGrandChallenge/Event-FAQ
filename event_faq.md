@@ -6,6 +6,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for December 2, 2014.
 
+Q5: I'm having trouble decrypting the scored event challenge bundle. What OS should I use?
+
+A5: The first scored event challenge bundle should be decrypted on the DECREE VM per A4.
+
 Q4: What is the decryption key to the first scored event challenge bundle?
 
 A4: The key is: who at the best knows in the end the triumph of high achievement and who at the worst fails while daring greatly
