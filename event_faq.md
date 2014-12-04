@@ -6,6 +6,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for December 2, 2014.
 
+Q10: Do you think you'll share source from the SE1 binaries?
+
+A10: Yes. An upcoming DECREE release will contain an SE1 source release similar to the source release of the original example binaries. We expect a similar paragidm for SE2.
+
 Q9: Is there a bug in the documentation for the cqe-package-solution.py script regarding use of the -f flag?
 
 A9: Yes. Documentation specifies one -f flag per file argument, but the script actually requires a single -f flag followed by a whitespace separated list of files. Competitors please be advised of this error; we will update the documentation in an upcoming release.
