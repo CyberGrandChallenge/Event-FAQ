@@ -6,6 +6,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for December 2, 2014.
 
+Q11: Our CRS submitted PoV XML which is incorrectly formatted. What will happen?
+
+A11: Due to the "debug" nature of the Scored Events, DARPA will attempt to correct these formatting errors where possible for teams prior to SE1 scoring. Teams will also be notified of such errors. By CQE all such errors should be remediated.
+
 Q10: Do you think you'll share source from the SE1 binaries?
 
 A10: Yes. An upcoming DECREE release will contain an SE1 source release similar to the source release of the original example binaries. We expect a similar paragidm for SE2.
