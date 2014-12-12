@@ -6,6 +6,43 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for December 2, 2014.
 
+Q12: What is the tiebreaker algorithm for CQE?
+
+A12: DARPA is holding a period of public comment to discuss the proposed CQE tiebreaker algorithm contained in this FAQ entry as well as Scored Event scoring. Feedback should be addressed to cybergrandchallenge@darpa.mil. This will be open for a period of public comment concluding on February 26th, 2015. At the conclusion of the period of public comment, DARPA will announce the tiebreaker algorithm to be used in Scored Event #2.
+
+This non-final CQE tiebreaker algorithm was used to break a tie in Scored Event #1.
+
+The CQE tiebreaker algorithm will be applied in Scored Events and CQE. The tiebreaker algorithm will only be used:
+
+On the scores of teams compliant with the CGC Rules including section 3.1.3
+To rank a set of teams whose scores are equal prior to tiebreaking, and whose position occludes the 7th place slot in the event. For example, a tie for 1st and 2nd would not be subject to the tiebreaker, nor would a tie for 10th and 11th. A tie for rank 6th, 7th, 8th and 9th would be subject to the tiebreaker algorithm for ranking.
+
+The tiebreaker algorithm will be executed in rounds (see below). At the conclusion of each round, teams will be ranked according to the results of that tiebreak round; a set of teams which are still tied per b) will be ranked using the next tiebreak round. For example if three teams are tied for 6th, 7th, and 8th, and tiebreak round one puts a team in 6th place but 7th and 8th are still tied, the second tiebreak round will apply only to the teams in 7th and 8th place.
+
+Round One:
+
+CQE scoring is recomputed per [A59](https://cgc.darpa.mil/documents.aspx) with the following modification: file size will be ignored when calculating Performance.
+
+Round Two:
+
+CQE scoring is recomputed per [A59](https://cgc.darpa.mil/documents.aspx) with the following modification: file size and memory usage will be ignored when calculating Performance.
+
+Round Three: 
+
+CQE scoring is recomputed per [A59](https://cgc.darpa.mil/documents.aspx) with the following modification: Performance will be ignored when calculating Availability.
+
+Round Four: 
+
+CQE scoring is recomputed per [A59](https://cgc.darpa.mil/documents.aspx) with the following modification: Performance will be ignored when calculating Availability. In addition, Evaluation will be set to 1.
+
+Round Five:
+
+CQE scoring is recomputed per [A59](https://cgc.darpa.mil/documents.aspx) with the following modification: Only the Evaluation score will be considered. The Availability and Security will be set to 1.
+
+Round Six:
+
+In the highly unlikely event that the tiebreaker reaches Round Six, DARPA will issue a ranking by expert judgment.
+
 Q11: Our CRS submitted PoV XML which is incorrectly formatted. What will happen?
 
 A11: Due to the "debug" nature of the Scored Events, DARPA will attempt to correct these formatting errors where possible for teams prior to SE1 scoring. Teams will also be notified of such errors. By CQE all such errors should be remediated.
