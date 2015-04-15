@@ -2,9 +2,19 @@
 
 The Cyber Grand Challenge will communicate with teams via this FAQ during the challenge events. The content will be copied into the master CGC FAQ post-event.
 
+# Scored Event 2
+
+Scheduled for April 16, 2015.
+
+# CGC Qualification Event
+
+Scheduled for June 3, 2015.
+
+
+
 # Scored Event 1
 
-Scheduled for December 2, 2014.
+FAQ entries from Scored Event 1 on December 2, 2014 have been moved into the official Cyber Grand Challenge FAQ hosted on https://cgc.darpa.mil/documents.aspx
 
 Q12: What is the tiebreaker algorithm for CQE?
 
@@ -96,10 +106,3 @@ Q1: When will questions and answers appear here.
 
 A1: During the scored event.
 
-# Scored Event 2
-
-Tentatively scheduled for April 16, 2015.
-
-# CGC Qualification Event
-
-Scheduled for June 3, 2015.
