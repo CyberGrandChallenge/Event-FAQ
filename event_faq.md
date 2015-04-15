@@ -10,6 +10,9 @@ Scheduled for April 16, 2015.
 
 Scheduled for June 3, 2015.
 
+Q1: What is the official Twitter feed for CGC Scored Event 2?
+
+A1: https://twitter.com/DARPACGCSEtwo
 
 
 # Scored Event 1
