@@ -6,6 +6,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for April 16, 2015.
 
+Q3: Can you confirm our observation that many PCAP files in the SE2 bundle appear to have extra, empty connections?
+
+A3: Empty connections may be present. Services may occasionally receive no transport layer data. See also FAQ A85 at cgc.darpa.mil.
+
 Q2: What is the decryption key to the second scored event challenge bundle?
 
 A2: The key is: The will to succeed is important, but what's more important is the will to prepare.
