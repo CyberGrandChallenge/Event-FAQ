@@ -13,7 +13,7 @@ A2: The key is: The will to succeed is important, but what's more important is t
 The challenge bundle can be decrypted with the following command as found on [github](https://github.com/CyberGrandChallenge/cgc-release-documentation/tree/master/scripts): 
 
 ```
-cqe-unpack-event-bundle.py -e scored_event_2.ar.gz.enc -p "The will to succeed is important, but what's more important is the will to prepare."
+cqe_unpack_event_bundle.py -e scored_event_2.ar.gz.enc -p "The will to succeed is important, but what's more important is the will to prepare."
 ```
 
 Q1: What is the official Twitter feed for CGC Scored Event 2?
