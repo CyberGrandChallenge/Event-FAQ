@@ -6,14 +6,25 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for April 16, 2015.
 
-# CGC Qualification Event
+Q2: What is the decryption key to the second scored event challenge bundle?
 
-Scheduled for June 3, 2015.
+A2: The key is: The will to succeed is important, but what's more important is the will to prepare.
+
+The challenge bundle can be decrypted with the following command as found on [github](https://github.com/CyberGrandChallenge/cgc-release-documentation/tree/master/scripts): 
+
+```
+cqe-unpack-event-bundle.py -e scored_event_2.ar.gz.enc -p "The will to succeed is important, but what's more important is the will to prepare."
+```
 
 Q1: What is the official Twitter feed for CGC Scored Event 2?
 
 A1: https://twitter.com/DARPACGCSEtwo
 
+
+
+# CGC Qualification Event
+
+Scheduled for June 3, 2015.
 
 # Scored Event 1
 
