@@ -2,6 +2,28 @@
 
 The Cyber Grand Challenge will communicate with teams via this FAQ during the challenge events. The content will be copied into the master CGC FAQ post-event.
 
+
+# CGC Qualification Event
+
+Scheduled for June 3, 2015.
+
+
+Q2: What is the official Twitter feed for the CGC Qualification Event
+
+A2: https://twitter.com/DARPA_CGC_CQE
+
+
+Q1: How do I confirm that I am running the latest version of DECREE?
+
+A1: In the last DECREE release email, a test [1] was issued to check the vagrant version. If your current system responds with the output cited below [1] [2], there is no need to update. If your system responds with different output, DARPA/CGC advises that you update.
+
+[1] The expected output of vagrant ssh of an upgraded VM will be:
+Linux cgc-linux-packer 3.13.2-cgc #1 SMP Mon Apr 13 18:33:57 UTC 2015 i686
+
+[2] vagrant@cgc-linux-packer $ cat /etc/decree_version
+cqe_development-vm-61
+
+
 # Scored Event 2
 
 Scheduled for April 16, 2015.
@@ -25,10 +47,6 @@ Q1: What is the official Twitter feed for CGC Scored Event 2?
 A1: https://twitter.com/DARPACGCSEtwo
 
 
-
-# CGC Qualification Event
-
-Scheduled for June 3, 2015.
 
 # Scored Event 1
 
