@@ -10,6 +10,7 @@ Scheduled for June 3, 2015.
 Q3: An empty write in a PoV XML passes poll-validate but causes an exception in cb-replay.
 
 A3: A fix will be released in a future version of DECREE. During CQE, competitors are encouraged to refer to [FAQ](https://cgc.darpa.mil/documents.aspx) entry A111 with respect to debugging their CRS during the event. Prior to CQE, competitors are encouraged to insure their CRS does not generate a PoV with an empty write statement similar to the below:
+
 	```
 	<write><data></data></write>
 	```
