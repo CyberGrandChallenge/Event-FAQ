@@ -7,6 +7,14 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for June 3, 2015.
 
+Q4: Which Challenge Sets will be excluded from computing CQE ranking?
+
+A4: See [FAQ](https://cgc.darpa.mil/documents.aspx) A117. The proof of excluded CS selection is:
+
+```
+U2FsdGVkX1/21aa4u0ZhcTCAyGr8oX7aCimSvKfGG3HFvjy5sCWi7Dh0dY9mb2nizlldmCCeB7g2RbUv3R0PkvFVp+EeTeWj8MpTiBCP0cVS3/uXy2rWIZtkFpOYBXIqYdybwpawzlRshJ8BeA2/WCWBeupEhCWFjJT7XigmLyEZqIujQ/rsWJTLOTfWFWC0
+```
+
 Q3: An empty write in a PoV XML passes poll-validate but causes an exception in cb-replay.
 
 A3: A fix will be released in a future version of DECREE. During CQE, competitors are encouraged to refer to [FAQ](https://cgc.darpa.mil/documents.aspx) entry A111 with respect to debugging their CRS during the event. Prior to CQE, competitors are encouraged to insure their CRS does not generate a PoV with an empty write statement similar to the below:
