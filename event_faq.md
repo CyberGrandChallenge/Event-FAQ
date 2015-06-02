@@ -15,16 +15,16 @@ A4: See [FAQ](https://cgc.darpa.mil/documents.aspx) A117. The proof of excluded 
 U2FsdGVkX1/21aa4u0ZhcTCAyGr8oX7aCimSvKfGG3HFvjy5sCWi7Dh0dY9mb2nizlldmCCeB7g2RbUv3R0PkvFVp+EeTeWj8MpTiBCP0cVS3/uXy2rWIZtkFpOYBXIqYdybwpawzlRshJ8BeA2/WCWBeupEhCWFjJT7XigmLyEZqIujQ/rsWJTLOTfWFWC0
 ```
 
-Q3: An empty write in a PoV XML passes poll-validate but causes an exception in cb-replay.
+Q3: An empty write in a PoV XML passes poll-validate but causes an exception in cb-replay; will this be fixed?
 
-A3: A fix will be released in a future version of DECREE. During CQE, competitors are encouraged to refer to [FAQ](https://cgc.darpa.mil/documents.aspx) entry A111 with respect to debugging their CRS during the event. Prior to CQE, competitors are encouraged to insure their CRS does not generate a PoV with an empty write statement similar to the below:
+A3: A fix will be released in a future version of DECREE. During CQE, competitors are encouraged to refer to [FAQ](https://cgc.darpa.mil/documents.aspx) entry A111 with respect to debugging their CRS during the event. Prior to CQE, competitors are encouraged to ensure their CRS does not generate a PoV with an empty write statement similar to the below:
 
 ```
 <write><data></data></write>
 ```
 
 
-Q2: What is the official Twitter feed for the CGC Qualification Event
+Q2: What is the official Twitter feed for the CGC Qualification Event?
 
 A2: https://twitter.com/DARPA_CGC_CQE
 
