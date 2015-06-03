@@ -7,6 +7,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for June 3, 2015.
 
+Q8: What is the name of the S3 submission bucket?
+
+A8: Submissions should be uploaded to the "cqe_qualifier_event" bundle as documented in the [cgc-qualifier-event walkthrough](https://github.com/CyberGrandChallenge/cgc-release-documentation/blob/master/walk-throughs/cgc-qualifier-event-api.md). All teams should double check their submission bucket.
+
 Q7: What is the decryption key to the CQE challenge bundle?
 
 A7: The key is: Ultimately, what separates a winner from a loser at the grandmaster level is the willingness to do the unthinkable. 5844659ce9891a09
