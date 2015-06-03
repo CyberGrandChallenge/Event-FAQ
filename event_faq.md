@@ -7,6 +7,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for June 3, 2015.
 
+Q5: When we use netcat to connect to CADET_00001 and write a large number of characters it crashes, but when we create a POVML file which writes the same string to CADET_00001 it doesn't crash. Can you explain this behavior?
+
+A5: The POVML format grants fine grained control of reads and writes to a CRS. The CADET_00001 protocol is a "server speaks first" protocol; a race condition occurs when the POVML transmits data to the server and then exits. When the race is "won" by the PoV, the PoV will close the socket first causing the CB's transmit to fail and thus exit cleanly before the PoV input can be received, processed or cause a crash. As with many race conditions, the result of this race is difficult to predict.
+
 Q4: Which Challenge Sets will be excluded from computing CQE ranking?
 
 A4: See [FAQ](https://cgc.darpa.mil/documents.aspx) A117. The proof of excluded CS selection is:
