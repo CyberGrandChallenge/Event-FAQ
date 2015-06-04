@@ -7,6 +7,16 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for June 3, 2015.
 
+Q12: How do I verify my submissions?
+
+A12: [The procedure is documented in the CGC Qualifier Event API Walk-though](https://github.com/CyberGrandChallenge/cgc-release-documentation/blob/master/walk-throughs/cgc-qualifier-event-api.md#verify-solution-submission). The referenced script can be downloaded from [Github](https://github.com/CyberGrandChallenge/cgc-release-documentation/blob/master/scripts/cqe_verify_solution_package.py).
+
+Example:
+```
+cqe_submission_verification.py -c credentials.json -f "${csid}_${hash}.ar.enc" -e cgc_qualifier_event
+```
+
+
 Q11: As with all CGC scored events, CQE allows multiple submissions to the same csid, correct?
 
 A11: Yes. Submit early; submit often. Only the latest valid submission to each csid will be considered for ranking purposes. For more information on ranking, see Section 3.1.3 of the CGC Rules.
