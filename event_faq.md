@@ -7,6 +7,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Scheduled for June 3, 2015.
 
+Q11: As with all CGC scored events, CQE allows multiple submissions to the same csid, correct?
+
+A11: Yes. Submit early; submit often. Only the latest valid submission to each csid will be considered for ranking purposes. For more information on ranking, see Section 3.1.3 of the CGC Rules.
+
 Q10: What is the duration of CQE?
 
 A10: CQE is a 24-hour event which concludes on June 4th, 2015, at 12:00 noon EDT (1600 UTC).
