@@ -18,7 +18,7 @@ https://github.com/CyberGrandChallenge/cgc-release-documentation/blob/master/ti-
 
 Q1: Are jumbo-frames supported in the DARPA cloud and the CFE APIs?
 
-A1: The CRS switch supports jumbo frames. The team gateway, which provides VPN and Internet access, does not support jumbo frames. DARPA is investigating if the IDS tap and TI-API host support jumbo frames.
+A1: The CRS switch supports jumbo frames. The team gateway, which provides VPN and Internet access, does not support jumbo frames. The IDS tap and TI-API host do not support jumbo frames.
 
 
 
