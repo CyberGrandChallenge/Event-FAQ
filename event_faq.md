@@ -2,6 +2,25 @@
 
 The Cyber Grand Challenge will communicate with teams via this FAQ during the challenge events. The content will be copied into the master CGC FAQ post-event.
 
+# CGC Final Event Trials
+
+Q2: the "feedback/poll" TI-API has new functionality.  It returns 4 values (instead of the documented 3):  success:,  timeout:,  connect:, and function:. Where is the new functionality (“function:”) documented?
+
+A2: Functionality data for poll/feedback is reported as four percentages:
+ (1) percentage  of successful polls
+ (2) percentage of polls that failed as a result of a timeout
+ (3) percentage of polls that failed because a connect call failed
+ (4) percentage of polls that failed due to CS functionality
+
+This update will be reflected in an update to:
+https://github.com/CyberGrandChallenge/cgc-release-documentation/blob/master/ti-api-spec.txt#L377
+
+
+Q1: Are jumbo-frames supported in the DARPA cloud and CFE APIs?
+
+A1: The CRS switch supports jumbo frames. The team gateway, which provides VPN and Internet access, does not support jumbo frames. The IDS tap and TI-API host do not support jumbo frames.
+
+
 
 # CGC Qualification Event
 
