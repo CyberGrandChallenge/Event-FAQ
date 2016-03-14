@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC Final Event Trials
 
+Q3: How many rounds will be supported during a Trials session?
+
+A3: The CFE simulation will support a minimum of 4 rounds.
+
 Q2: the "feedback/poll" TI-API has new functionality.  It returns 4 values (instead of the documented 3):  success:,  timeout:,  connect:, and function:. Where is the new functionality (“function:”) documented?
 
 A2: Functionality data for poll/feedback is reported as four percentages:
