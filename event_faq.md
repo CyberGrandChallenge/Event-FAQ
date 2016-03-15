@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC Final Event Trials
 
+Q5: What were our Trials results and when did the CFE simulation start during our Trials session?
+
+A5: Trials reports include the timing of the CFE simulation. Please email us if you have not received your Trials report within 24 hours of a scheduled Trials session.
+
 Q4: Can our team manually connect to the TI at some point during our Trials session?
 
 A4: The Ethernet link for the IDS and TI will be active at the beginning of the Trials session. Connections to the TI will fail until the CFE simulation starts; CFE simulation may begin at any point during the Trials session.
