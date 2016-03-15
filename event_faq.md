@@ -4,6 +4,16 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC Final Event Trials
 
+Q6: What should our CRS do when it fails to comprehend a binary during Trials?
+
+A6: The CGC Rules[1] state: "Challenge Binaries for the Trials will be provided to competitors beforehand, and competitors are welcome to field signatures, patches, and vulnerability scans which have been hand crafted prior to the Trials". The Challenge Binaries that were provided to competitors prior to Trials are:
+* CADET_00003
+* EAGLE_00005
+* CROMU_00070
+* CROMU_00071
+
+[1] https://cgc.darpa.mil/
+
 Q5: What were our Trials results and when did the CFE simulation start during our Trials session?
 
 A5: Trials reports include the timing of the CFE simulation. Please email us if you have not received your Trials report within 24 hours of a scheduled Trials session.
