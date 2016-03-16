@@ -6,7 +6,7 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 Q7: What IP addresses and port numbers are used during trials?
 
-A6:  DARPA/CGC expects to use the following IP addresses and ports during Trials:
+A7:  DARPA/CGC expects to use the following IP addresses and ports during Trials:
 
 * A CRS will connect from 192.168.1.10 to the TI server.
 * TI server will receive CRS connections on 192.168.1.20 (listening on TCP port 1996).
