@@ -4,6 +4,15 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC Final Event Trials
 
+Q7: What IP addresses and port numbers are used during trials?
+
+A6:  DARPA/CGC expects to use the following IP addresses and ports during Trials:
+
+* A CRS will connect from 192.168.1.10 to the TI server.
+* TI server will receive CRS connections on 192.168.1.20 (listening on TCP port 1996).
+* The IDS tap will send from 192.168.1.40 to the CRS.
+* The CRS will receive IDS tap data on 192.168.1.30 (on UDP port 1999).
+
 Q6: What should our CRS do when it fails to comprehend a binary during Trials?
 
 A6: The CGC Rules[1] state: "Challenge Binaries for the Trials will be provided to competitors beforehand, and competitors are welcome to field signatures, patches, and vulnerability scans which have been hand crafted prior to the Trials". The Challenge Binaries that were provided to competitors prior to Trials are:
