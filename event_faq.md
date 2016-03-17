@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC Final Event Trials
 
+Q8: During CFE Trials, did the CFE infrastructure always reject malformed IDS rules files?
+
+A8:  No.  The CFE infrastructure was modified to reject malformed IDS rules files following CFE Trials sessions conducted on Mar 15, 2016.
+
 Q7: What IP addresses and port numbers are used during trials?
 
 A7:  DARPA/CGC expects to use the following IP addresses and ports during Trials:
