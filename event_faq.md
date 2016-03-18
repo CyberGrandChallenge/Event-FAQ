@@ -22,7 +22,7 @@ A10: No.
 
 Q9:  Our CRS keeps observing ARP requests for 192.168.1.30, why is this?
 
-A9:  See A8.
+A9:  See A7.
 
 Q8: During CFE Trials, did the CFE infrastructure always reject malformed IDS rules files?
 
