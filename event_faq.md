@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC Final Event Trials
 
+Q9:  Our CRS keeps observing ARP requests for 192.168.1.30, why is this?
+
+A9:  See A8.
+
 Q8: During CFE Trials, did the CFE infrastructure always reject malformed IDS rules files?
 
 A8:  No.  The CFE infrastructure was modified to reject malformed IDS rules files following CFE Trials sessions conducted on Mar 15, 2016.
