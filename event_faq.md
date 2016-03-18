@@ -4,6 +4,22 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC Final Event Trials
 
+Q13: Since the CFE Trials use a fake opponent, is the CFE simulation using fake CFE infrastructure or the real thing?
+
+A13: The latter.
+
+Q12: Did we just get a perfect scorecard?
+
+A12: Yes, at least one team has completed all required and all suggested Trials as of March 17, 2016.
+
+Q11: Are the IDS tap and IDS logging to stdout the same thing?
+
+A11: No.
+
+Q10: Is IDS logging available on the CFE infrastructure?
+
+A10: No.
+
 Q9:  Our CRS keeps observing ARP requests for 192.168.1.30, why is this?
 
 A9:  See A8.
