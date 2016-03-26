@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC Final Event Trials
 
+Q14: During CFE Trials, did the CFE TI API correctly enforce a floor on reported performance values?
+
+A14: No. During CFE Trials the CFE infrastructure incorrectly enforced a ceiling on the reporting of these values; it was modified to correctly enforce a floor on the reporting of these values following CFE Trials sessions conducted on Mar 25, 2016.
+
 Q13: Since the CFE Trials use a fake opponent, is the CFE simulation using fake CFE infrastructure or the real thing?
 
 A13: The latter.
