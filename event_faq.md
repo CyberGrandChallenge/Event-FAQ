@@ -8,7 +8,7 @@ Q2: Does Sparring Partner support dynamic introduction and removal of Challenge 
 
 Q2: Yes, as of June 2, 2016.
 
-Q1: Does Sparring Partner support all fake opponents? 
+Q1: Does Sparring Partner support all six fake opponents? 
 
 A1: Yes, as of May 9, 2016.
 
