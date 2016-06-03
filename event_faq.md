@@ -2,6 +2,12 @@
 
 The Cyber Grand Challenge will communicate with teams via this FAQ during the challenge events. The content will be copied into the master CGC FAQ post-event.
 
+# CGC CFE Sparring Partner
+
+Q1: Does Sparring Partner support all fake opponents? 
+
+A1: Yes, as of May 9, 2016.
+
 # CGC Final Event Trials
 
 Q14: During CFE Trials, did the CFE TI API always correctly enforce a floor on reported performance values?
