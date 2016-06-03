@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC CFE Sparring Partner
 
+Q2: Does Sparring Partner support dynamic introduction and removal of Challenge Sets?
+
+Q2: Yes, as of June 2, 2016.
+
 Q1: Does Sparring Partner support all fake opponents? 
 
 A1: Yes, as of May 9, 2016.
