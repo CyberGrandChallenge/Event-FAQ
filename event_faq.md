@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC CFE Sparring Partner
 
+Q: We're not seeing IDS Tap traffic. Did DARPA/CGC make a change to cause this to occur?
+
+A: No. DARPA/CGC has received similar reports from a few teams; we appreciate any detailed debugging info teams can forward regarding the IDS Tap.
+
 Q2: Does Sparring Partner support dynamic introduction and removal of Challenge Sets?
 
 Q2: Yes, as of June 2, 2016.
