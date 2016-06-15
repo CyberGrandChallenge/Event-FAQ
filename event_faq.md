@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC CFE Sparring Partner
 
+Q4: Sparring partner ran with patched binaries that had unrealistically optimized performance values, causing our availability score to tank. Will this happen in CFE?
+
+A4: In order to preview the effects of scale on the defended host, DARPA/CGC ran sparring partner using a large collection of Challenge Sets developed during CQE that have not passed CFE acceptance. As a result, several of these binaries caused Availability impact to all teams that could not be mitigated. DARPA/CGC will continue to prioritize CFE readiness during Sparring Partner by introducing scale, new Challenge Sets, etc.
+
 Q3: We're not seeing IDS Tap traffic. Did DARPA/CGC make a change to cause this to occur?
 
 A3: No. DARPA/CGC has received similar reports from a few teams; we appreciate any detailed debugging info teams can forward regarding the IDS Tap.
