@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC CFE Sparring Partner
 
+Q5: During CFE Sparring, did the IDS TAP always number IDS message IDs the same way?
+
+A5: No.  IDS TAP message IDs will start at 0 following CFE Sparring conducted on July 13, 2016.
+
 Q4: Sparring partner ran with patched binaries that had unrealistically optimized performance values, causing our availability score to tank. Will this happen in CFE?
 
 A4: In order to preview the effects of scale on the defended host, DARPA/CGC ran sparring partner using a large collection of Challenge Sets developed during CQE that have not passed CFE acceptance. As a result, several of these binaries caused Availability impact to all teams that could not be mitigated. DARPA/CGC will continue to prioritize CFE readiness during Sparring Partner by introducing scale, new Challenge Sets, etc.
