@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC CFE Sparring Partner
 
+Q6: When will CFE sparring sessions be scheduled?
+
+A6: As of July 15, 2016, CFE sparring sessions may occur at any time on any day of the week leading up to CFE.
+
 Q5: During CFE Sparring, did the IDS TAP always number IDS message IDs the same way?
 
 A5: No.  IDS TAP message IDs will start at 0 following CFE Sparring conducted on July 13, 2016.
