@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC CFE Sparring Partner
 
+Q10: Could improper handling of transmits and receives (including truncation) in PoV negotiation cause TI API PoV feedback "protocol" or "invalid type" errors?
+
+A10: Yes.
+
 Q9: We've noticed that the TI API[1] PoV feedback sometimes includes an "error" field.  What types of error messages may occur?
 
 A9: TI API PoV feedback errors may include:
