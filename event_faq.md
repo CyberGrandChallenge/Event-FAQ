@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC CFE Sparring Partner
 
+Q8: Are you still using CQE Challenge Sets in Sparring Partner?
+
+A8: No. All sparring after July 21, 2106 until CFE will take place using Challenge Sets that have passed CFE acceptance.
+
 Q7: We've noticed sparring is now occurring more often. Can we schedule constant sparring for our team?
 
 A7: No. Only one CFE infrastructure exists, and we must share this resource between all competitors and DARPA/CGC continuous readiness testing.  DARPA/CGC will use all available infrastructure time to provide unscheduled sparring to competitors in a distribution that is fair and abundant as possible with the time remaining.
