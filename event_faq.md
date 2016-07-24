@@ -4,6 +4,16 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC CFE Sparring Partner
 
+Q9: We've noticed that the TI API[1] PoV feedback sometimes includes an "error" field.  What types of error messages may occur?
+
+A9: TI API PoV feedback errors may include:
+
+* protocol - indicates that all required transactions for the protocol did not complete.
+* invalid type - indicates that the infrastructure did not receive a valid PoV type.
+* bits - indicates a minimum bit count failure
+
+[1] https://github.com/CyberGrandChallenge/cgc-release-documentation/blob/master/ti-api-spec.txt
+
 Q8: Are you still using CQE Challenge Sets in Sparring Partner?
 
 A8: No. All sparring after July 21, 2106 until CFE will take place using Challenge Sets that have passed CFE acceptance.
