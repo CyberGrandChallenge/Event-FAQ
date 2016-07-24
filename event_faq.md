@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC CFE Sparring Partner
 
+Q7: We've noticed sparring is now occurring more often. Can we schedule constant sparring for our team?
+
+A7: No. Only one CFE infrastructure exists, and we must share this resource between all competitors and DARPA/CGC continuous readiness testing.  DARPA/CGC will use all available infrastructure time to provide unscheduled sparring to competitors in a distribution that is fair and abundant as possible with the time remaining.
+
 Q6: When will CFE sparring sessions be scheduled?
 
 A6: As of July 15, 2016, CFE sparring sessions may occur at any time on any day of the week leading up to CFE.
