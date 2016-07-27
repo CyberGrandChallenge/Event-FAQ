@@ -4,6 +4,14 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC CFE Sparring Partner
 
+
+Q12: Does the DECREE release from July 16, 2016 [1] include additional information in the cb-test IDS TAP?
+
+A12: Yes. This is a bug which is not reflected by the CFE infrastructure.
+
+[1] https://github.com/cybergrandchallenge
+
+
 Q11: Can we schedule constant sparring for our team?
 
 A11: No. Only one CFE infrastructure exists, and we must share this resource between all competitors and DARPA/CGC continuous readiness testing. Only with constant, serial, unscheduled sparring can time on this shared resource be distributed to teams in a manner that is both abundant and fair.
