@@ -4,6 +4,10 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CGC CFE Sparring Partner
 
+Q11: Can we schedule constant sparring for our team?
+
+A11: No. Only one CFE infrastructure exists, and we must share this resource between all competitors and DARPA/CGC continuous readiness testing. Only with constant, serial, unscheduled sparring can time on this shared resource be distributed to teams in a manner that is both abundant and fair.
+
 Q10: Could improper handling of transmits and receives (including truncation) in PoV negotiation cause TI API PoV feedback "protocol" or "invalid type" errors?
 
 A10: Yes.
