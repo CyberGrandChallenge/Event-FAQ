@@ -2,8 +2,46 @@
 
 The Cyber Grand Challenge will communicate with teams via this FAQ during the challenge events. The content will be copied into the master CGC FAQ post-event.
 
-# CGC CFE Sparring Partner
+# CFE 
 
+Q1: What were the competitor team TeamPhrases used to contribute to the calculation of the master seed?
+
+A1: The TeamPhrases solicited from finalists and used according to A176 of the FAQ are published in the below JSON:
+
+```json
+[
+    {
+        "phrase": "defa5b1925203b76ee19bb1102e620754fb655b11b52399da226354630e1f18b61f439b8cb2d520de99589c68fdc5312ab6b229879f7bda06d285cba98a961b7fe63ba3e9b96de11254196e2a73dab6099058af816a747a1182868b868e58eda8206bc33aba51964c4ef77aa4378d5665b66db8b18ae4eb6ed99e560b89ce2467b4bfff16dea49d6dcb88101392f91e0ca4c4ed672e30cc52b3f7c45a0a8d39c7a4b41b83a0f7e00b50c5ce123c38645a7c495b53d32df5b8b57dfb3a0933bce478930cd6b4692e8a57b0c335997c6e86a99114a0ca5c0751118ffe7d989b298d15e5f3df7cd9546290bedb7d79d87f91abafbb4a953078cac4aa53fd10caca1", 
+        "name": "CodeJitsu"
+    }, 
+    {
+        "phrase": "Remember: Innovation can occur anywhere -- If we knew what we were doing, it would not be called research", 
+        "name": "CSDS"
+    }, 
+    {
+        "phrase": "Deep Red [team photo: (-(-_(-_-)_-)-)] is excited to participate in the Cyber Grand Challenge.  They do not battle with o==]:::::::::::>'s, but with 1's and 0's for treasure and eternal glory.  Their specially chosen TeamPhrase shall surely secure their victory.", 
+        "name": "DeepRed"
+    }, 
+    {
+        "phrase": "           ;.\n :         .                                   ..\n .NNN.   cco                                  XMM      k.   .\n .MMM.  .OK0                                  kMM     l:;   l0Wo\n .,;'.,MMM.   . .                                  kMW     xkl.  ,MMo\n '0WMNKNMNMMM:   dKK    :dMMMMMXO:      ,xXMMMWKk,    0MM.  ;XKWW  :0MMN0x..\n cMMM'   lMMMMMX..KMX...lMMMMc.'cWM0   .KMMXl,llWMM:   WMM ;0NM0:' ..'MMK'.\n NMMc   d0XMMMx.  ;MMd .XMMW0,         XMMk     :MMW0. NMMNMMNx.  .,..MMK\n MMMc   c:oXM0.   .MMl  0:dxMMMWXx:..xOMMMKKXNWMMMWW0'.KMMXMMWO0'     WMK\n MMM0c   .lXMK    .MM;       .;dMMMWl.'MMNW0          .KMXl XW0MO.  . MM0\n ,NMMd   .XMMW.   'MM'  oWM;   .NMMMx  OMNWN.   :MMXl. XMMd  0WMMN   'MMX\n kOWMMWXWMXWMM.   ;MN    cMMXxdNMMMl.   xMMMKkd0MMKc   XMN'   .KMWK.  kMWKxo\n : l;Ko'.    .    .;c      .cxxdOO       .:odkxol'     ,.       . .    cddl;..\n :kO.    .      .\n .", 
+        "name": "Disekt"
+    }, 
+    {
+        "phrase": "\n              AAAAA\n         AAAAAAAAAAAAAAA\n       AAAAAAAAAAAAAAAAAAA\n     AAAAAAAAAAAAAAAAAAAAAAA\n    AAAAA  AAAAAAAAAAA  AAAAA\n   AAAAAAA  AAAAAAAAA  AAAAAAA\n  AAAAAAAAA  AAAAAAA  AAAAAAAAA\n  AAAAAAAAAA         AAAAAAAAAA\n  AAAAAAAAAAA  AAA  AAAAAAAAAAA\n   AAAAAAAAAAA  A  AAAAAAAAAAA\n    AAAAAAAAAAA   AAAAAAAAAAA\n     AAAAAAAAAAA AAAAAAAAAAA\n      AAAAAAAAAAAAAAAAAAAAA\n         AAAAAAAAAAAAAAA\n              AAAAA\n", 
+        "name": "ForAllSecure"
+    }, 
+    {
+        "phrase": "Shell we play a game?", 
+        "name": "Shellphish"
+    }, 
+    {
+        "phrase": "GrammaTech and UVA bring you Xandra, Defeneder of Humanity.", 
+        "name": "TECHx"
+    }
+]
+```
+
+# CGC CFE Sparring Partner
 
 Q12: Does the DECREE release from July 16, 2016 [1] include additional information in the cb-test IDS TAP?
 
