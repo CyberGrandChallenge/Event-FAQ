@@ -43,6 +43,9 @@ A1: The TeamPhrases solicited from finalists and used according to A176 of the F
 
 # CGC CFE Sparring Partner
 
+Q14: Can two different Challenge Sets have the same CSID in a single competition?
+A14: No.
+
 Q13: The TI-API spec allows me to query for CBIDs. Is this a necessary pre-step, or can I simply use a short name for the CB instead?
 
 A13: Valid CBIDs are always required.
