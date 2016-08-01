@@ -43,6 +43,10 @@ A1: The TeamPhrases solicited from finalists and used according to A176 of the F
 
 # CGC CFE Sparring Partner
 
+Q13: The TI-API spec allows me to query for CBIDs. Is this a necessary pre-step, or can I simply use a short name for the CB instead?
+
+A13: Valid CBIDs are always required.
+
 Q12: Does the DECREE release from July 16, 2016 [1] include additional information in the cb-test IDS TAP?
 
 A12: Yes. This is a bug which is not reflected by the CFE infrastructure.
