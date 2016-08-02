@@ -45,7 +45,7 @@ A1: The TeamPhrases solicited from finalists and used according to A176 of the F
 
 Q15: May we disrupt the function of a competitor CRS by throwing a jailbreak exploit to gain unauthorized access to an HPC in violation of the Conduct section of the DARPA Event Participation Agreement?
 
-A15: No.
+A15: No. 
 
 Q14: Can two different Challenge Sets have the same CSID in a single competition?
 
