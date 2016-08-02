@@ -48,6 +48,10 @@ A1: The TeamPhrases solicited from finalists and used according to A176 of the F
 
 # CGC CFE Sparring Partner
 
+Q15: Is it possible that two different challenge sets with the same CSID, in two different competitions, would have *different* challenge binaries?
+
+A15: Yes.
+
 Q14: Can two different Challenge Sets have the same CSID in a single competition?
 
 A14: No.
