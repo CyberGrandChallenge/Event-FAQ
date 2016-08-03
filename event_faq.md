@@ -3,6 +3,9 @@
 The Cyber Grand Challenge will communicate with teams via this FAQ during the challenge events. The content will be copied into the master CGC FAQ post-event.
 
 # CFE 
+Q3: What is the commit hash of the CFE Event Plan?
+
+A3: 199a5baeba2ebead9662438a5322f3ba08045998fd2e7bd96b60ab07964ca7dab43d0786897f73892af1bf3af470b0d2
 
 Q2: May we disrupt the function of a competitor CRS by throwing a jailbreak exploit to gain unauthorized access to an HPC in violation of the Conduct section of the DARPA Event Participation Agreement?
 
