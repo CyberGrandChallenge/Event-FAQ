@@ -12,10 +12,13 @@ Did these real world constraints always apply to CFE?
 
 A7: Yes. Please see the following passages from section 3.2.3 of the CGC Rules:
     “The CFE is designed to pose realistic defense challenges”
+
     “Each CRS will have the ability to administer its own networked host”
+
     “An unsuccessful CRS will fail to maintain the function of CB software on its networked host”
 
 The following Area of Excellence (AoE) from the CGC Rules was written to emphasize the impact of this point on CFE scoring:
+
     “Autonomous Service Resiliency: The ability to maintain the availability and intended function of CBs provided through a Competition Framework.”
 
 
