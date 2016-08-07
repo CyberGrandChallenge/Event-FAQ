@@ -4,6 +4,29 @@ The Cyber Grand Challenge will communicate with teams via this FAQ during the ch
 
 # CFE 
 
+Q7: A178 of the CGC FAQ states:
+
+“These challenges: load, resource contention, and network concurrency are real world constraints that have always been part of the Capture the Flag tradition and were guaranteed by the CGC Rules since the inception of the Challenge.”
+
+Did these real world constraints always apply to CFE?
+
+A7: Yes. Please see the following passages from section 3.2.3 of the CGC Rules:
+    “The CFE is designed to pose realistic defense challenges”
+    “Each CRS will have the ability to administer its own networked host”
+    “An unsuccessful CRS will fail to maintain the function of CB software on its networked host”
+
+The following Area of Excellence (AoE) from the CGC Rules was written to emphasize the impact of this point on CFE scoring:
+    “Autonomous Service Resiliency: The ability to maintain the availability and intended function of CBs provided through a Competition Framework.”
+
+
+Q6: DARPA/CGC could not immediately verify the third place finisher of CFE. What was the root cause of this verification delay?
+
+A6: In the first verification run, flag captures did not immediately converge inside and outside the air gap. During root cause analysis, it was discovered that the verification process was using incorrect RBs in some rare situations due to a data corpus format error caused by high-frequency RB submissions. Once the data corpus format error was accounted for, verification was re-run, and flag captures converged. DARPA/CGC required root cause analysis to ensure that the non-convergence of flags was not due to an integrity issue. Additional data points:
+* No integrity issue was found. 
+* Availability was not in question during the Verification delay.
+* No team was removed from CFE due to an integrity issue.
+
+
 Q5: How does DARPA/CGC determine intent to disrupt the function of program analysis software per A135?
 
 A5: Determination of intent cannot be made. A135 and the Conduct section of the Event Participation Agreement work together. A135 reiterates that RB, IDS, or PoV code that cannot be analyzed by program analysis software is valid within the context of a CTF. The Conduct section of the Event Participation Agreement states that at no time may any CRS attempt to exceed authorized access to a competing CRS. The line between analysis disruption and federal information system access via analysis environment jailbreaks has not changed and will not change. DECREE is a jail with seven system calls; attempting access outside of these systems calls can cause access to a non-DECREE system. Below, this line is applied to a list of examples:
