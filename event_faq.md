@@ -11,6 +11,7 @@ Q7: A178 of the CGC FAQ states:
 Did these real world constraints always apply to CFE?
 
 A7: Yes. Please see the following passages from section 3.2.3 of the CGC Rules:
+
     “The CFE is designed to pose realistic defense challenges”
 
     “Each CRS will have the ability to administer its own networked host”
